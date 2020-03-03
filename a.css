@@ -9,5 +9,11 @@ h2{
   color: lightgray;
   font-family: sans-serif;
   padding-left: 120px;
+
+}
+ol{
   list-style: none;
+}
+li{
+  padding-top: 20px;
 }
