@@ -2,8 +2,10 @@ h1{
   font-size: 250px;
   text-align: center;
   color: rebeccapurple;
+  font-family: sans-serif;
 }
 h2{
   font-size: 150px;
   color: lightgray;
+  font-family: sans-serif;
 }
