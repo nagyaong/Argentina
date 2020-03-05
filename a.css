@@ -1,19 +1,26 @@
 h1{
   font-size: 100px;
   text-align: center;
-  color: skyblue;
+  color: lightskyblue;
   font-family: sans-serif;
+  font-weight: 594;
 }
 h2{
   font-size: 80px;
-  color: lightgray;
+  color: lightsteelblue;
   font-family: sans-serif;
   padding-left: 120px;
 
 }
-ol{
+ul{
   list-style: none;
 }
 li{
   padding-top: 20px;
+  padding-bottom: 20px;
+  list-style: none;
 }
+a {
+    color: lightsteelblue;
+    text-decoration: none;
+  }
